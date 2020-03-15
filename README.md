@@ -34,4 +34,5 @@ Women in Big Data was founded in June 2015 by 15 incredible women in big data, w
 It has gained over 2500 members from 50 companies and universities, along with chapters globally from coast to coast in the US, Europe and Latin America. 
 
 WiBD Website: https://www.womeninbigdata.org/
+<br>
 SoCal Meetup: https://www.meetup.com/Women-in-Big-Data-Meetup-SoCal-Chapter/
